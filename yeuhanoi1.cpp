@@ -17,7 +17,7 @@ int main (){
 			}
 		}
 		else{
-			printf("Yeu Ha Noi");
+			printf("Yeu Ha Noi!");
 		}
 	}
 	else if(c==d){
